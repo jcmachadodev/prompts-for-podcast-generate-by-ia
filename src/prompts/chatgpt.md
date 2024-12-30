@@ -24,7 +24,8 @@ ChatGPT：
 
 
 
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |                                  | conteúdo | Você é um roteirista de podcast, e vamos criar um  roteiro de um podcast de tecnologia, focado em backend cujo o nome é "Processo em Execução" |
+| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |                                  
+| conteúdo | Você é um roteirista de podcast, e vamos criar um  roteiro de um podcast de tecnologia, focado em backend cujo o nome é "Processo em Execução" |
 |          |  e tem foco em backend ,com o público alvo de iniciantes em backend                                                                            |
 |          |                                                                                                                                                |
 |          |o formato do roteiro deve ser                                                                                                                   |  
